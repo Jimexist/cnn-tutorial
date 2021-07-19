@@ -1,0 +1,9 @@
+jupyter
+numpy
+jax
+flax
+tensorflow
+torch
+tqdm
+pandas
+tensorflow-datasets
