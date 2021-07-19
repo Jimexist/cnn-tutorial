@@ -4,6 +4,7 @@ jax
 flax
 tensorflow
 torch
+torchvision
 tqdm
 pandas
 tensorflow-datasets
